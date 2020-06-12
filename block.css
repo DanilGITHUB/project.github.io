@@ -1,0 +1,167 @@
+body{
+	background-color: #E6E6E6;
+}
+
+#header{
+	width: 100%;
+	background-color: #FFAF00;
+	height: 50px;
+
+}
+
+a{
+	color: white;
+	margin-left: 20px;
+	margin-top: 50px;
+	font-size: 20px;
+	text-decoration-line: none;
+}
+
+a:hover{
+	text-decoration-line: underline;
+}
+
+ul{
+	list-style: none;
+	padding-top: 12px;
+}
+
+li{
+	display: inline-block;
+}
+
+
+#rightpanel{
+	width: 30%;
+	background-color: white;
+	height: 1870px;
+	text-align: center;
+	float: right;
+	padding-right: 10px;
+	box-sizing: border-box;
+}
+
+#content{
+	width: 70%;
+	background-color: white;
+	height: 1870px;
+	text-align: center;
+	float: right;
+}
+
+#footer{
+	width: 100%;
+	height: 100px;
+	text-align: center;
+	clear: both;
+	background-color: #FFAF00;
+}
+#fooo{
+	padding-top: 30px;
+	color: white;
+	font-size: 13px;	
+}
+
+#container{
+	width: 48%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 27px;
+}
+
+h3{
+	margin: 0;
+}
+
+#med{
+	font-size: 17px;
+	margin-top: 15px;
+	margin-right: 18px;
+}
+
+#how{
+	font-size: 17px;
+	margin-top: 15px;
+	margin-right: 18px;
+}
+
+#sale{
+	text-align: left;
+	font-size: 22px;
+	margin-left: 20px;
+	margin-top: 10px;
+
+}
+
+#save{
+	font-size: 17px;
+	margin-top: 15px;
+	margin-right: 18px;
+}
+
+#old{
+	text-align: left;
+	margin-left: 20px;
+}
+
+body{
+	margin: 0px;
+}
+
+p{
+	text-align: justify;
+	margin-left: 20px;
+
+}
+
+img{
+	margin-left: 20px;
+}
+
+.polezno{
+	font-size: 13px;
+	te
+}
+
+#lol{
+	text-align: left;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+
+#kek{
+	text-align: left;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+
+tr{
+	display: table-row;
+	vertical-align: inherit;
+	border-color: inherit;
+}
+
+.price {
+    margin-top: 10px;
+    width: 100%;
+}
+
+table{
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    border-spacing: 2px;
+    border-color: grey;
+    padding-left: 20px;
+}
+
+.price td, .price th{
+    border: 1px solid black;
+    text-align: center;
+}
+
+td {
+    display: table-cell;
+    vertical-align: inherit;
+}
+
